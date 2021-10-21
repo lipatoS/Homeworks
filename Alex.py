@@ -1,5 +1,5 @@
 for i in range(10):
     print(i)
-    if i == 9:
+    if i == 11:
         break
 # ЖОПА
